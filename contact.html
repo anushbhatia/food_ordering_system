@@ -1,0 +1,65 @@
+<!-- Tells version  of HTML-->
+<!DOCTYPE html>
+<!--HTML root elements-->
+<html>
+<!--Used to contain HTML metadata-->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Smaranjit Ghose">
+        <meta name="description" content="Order food from HR05">
+        <meta name="keywords" content="Food, Ordering, HTML,food-ordering">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="assets/favicon.png">
+        <!--Title of the page-->
+        <title>HR05 | Contact</title>
+    </head>
+    <!--Content of the web page-->
+    <body>
+        <!-- Navigation Bar -->
+        <div class="nav-bar">
+            <a href="./index.html">Home</a>
+            <a href="./menu.html">Menu</a>
+            <a href="./contact.html">Contact</a>
+            <a href="./login.html">Login</a>
+        </div>
+        <!--Header-->
+        <center><h1>We would love to hear from you!</h1></center>
+        <center><img src = "assets/contact.png" alt = "contact-us" width = 40%></center>
+        <form action="https://food_ordering_app/submit">
+            <ul>
+        
+                <li>
+                    <input type = "text" placeholder="Your Name" required>
+                </li>
+        
+                <li>
+                    <input type="text" placeholder="Your Email" required>
+                </li>
+
+                <li>
+                    <input type="text" placeholder="Your Phone Number">
+                </li>
+        
+                <li>
+                    <input type="text" placeholder="Message" required>
+                </li>
+
+                <li>
+                    Are you a Student?
+                    <label for="student-yes"></label>
+                        <input type="radio" name="student" id="yes" value="1" checked>
+                            Yes
+                    </label>
+                    <label for="student-no"></label>
+                        <input type="radio" name="student" id="student-no" value="0">
+                            No
+                    </label>
+                </li>
+
+            </ul>
+            <button type = "submit">Submit</button>
+        </form>
+        <!--Footer-->
+    </body>
+</html>
