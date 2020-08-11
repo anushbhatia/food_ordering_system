@@ -6,7 +6,7 @@ __Guide:__ [Dr.R.I.Minu](https://www.srmist.edu.in/engineering/dept-cse/faculty/
 
 __Topic:__ A template website for ordering food from your local Cafe! 
 
-__Demo__: [Click Here]()
+__Demo__: [Click Here](https://foodordering.netlify.app/)
 
 ** Here I build a dummy website for my favorite eatery near my college i.e. HR05
 
@@ -19,5 +19,5 @@ __Demo__: [Click Here]()
 |5|Simple applications to demonstrate Servlets |  |❌|
 |6|Simple applications using JSP and AJAX |  |❌|
 |7|Design a simple online test web page in PHP|  |❌|
-|8|Design a simle application for accessing data using XML |  |❌|
+|8|Design a simple application for accessing data using XML |  |❌|
 |9|Application of web services | |❌|
