@@ -8,7 +8,7 @@ __Topic:__ A template website for ordering food from your local Cafe!
 
 __Demo__: [Click Here](https://foodordering.netlify.app/)
 
-** Here I build a dummy website for my favorite eatery near my college i.e. HR05
+** Here I build a dummy website for my favorite eatery near my college i.e. foodordering'
 
 | Sl.No | Description of experiment|Date|Status|
 |:-----:|---------------------------|:---:|----|
